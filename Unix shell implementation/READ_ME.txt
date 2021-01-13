@@ -1,11 +1,3 @@
-CPS 510 - ASSIGNMENT 9 - READ ME FILE
-
-Group Members
-Manpreet Rajpal (500874585) 
-Sakshi Padhiar (500903964) 
-Alifiyah Hussain (500778471) 
-Nicolas de la Guardia (500806448)
-
 RUNNING
 To run the command line user interface, make sure all files are in the
 same directory then run the bash file 'US_shootings_DBMS_UI.sh' as follows:
